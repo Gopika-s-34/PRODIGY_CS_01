@@ -13,19 +13,15 @@ As part of my cybersecurity internship at Prodigy InfoTech, I developed a tool f
 **Detailed Explanation**
 
 **Encryption Process:**
-
 Each character in the plaintext is replaced by another character a fixed number of places away in the alphabet. For example, with a shift of 5, 'A' would become 'F'. This method provides a straightforward way to encode messages.
 
 **Decryption Process:**
-
 The decryption process involves shifting the characters back to their original positions. This is essentially the reverse of the encryption process and requires the same shift value used during encryption.
 
 **Shift Variability:**
-
 The Caesar cipher's security is influenced by the shift value. A small shift value (e.g., 3) is relatively easy to break using brute-force methods. Larger shift values increase the complexity but still offer limited security by modern standards.
 
 **Educational Value:**
-
 Implementing the Caesar cipher provides hands-on experience with fundamental cryptographic concepts, including substitution and transposition. It also illustrates the basic principles of encryption and decryption, which are foundational for understanding more advanced cryptographic techniques.
 
 **Use Cases**
