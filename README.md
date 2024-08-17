@@ -8,7 +8,7 @@ As part of my cybersecurity internship at Prodigy InfoTech, I developed a tool f
 
 **Encryption:**  Transforms plaintext into ciphertext by shifting each letter by a predefined number of positions. This process hides the original message and ensures that only those who know the shift value can decipher it.
 
-**Decryption: **Reverts the ciphertext back to plaintext by shifting the letters in the opposite direction. This process restores the original message and is essential for reading the encrypted text.
+**Decryption: ** Reverts the ciphertext back to plaintext by shifting the letters in the opposite direction. This process restores the original message and is essential for reading the encrypted text.
 
 **Detailed Explanation**
 
@@ -31,4 +31,5 @@ Implementing the Caesar cipher provides hands-on experience with fundamental cry
 **Use Cases**
 
 Educational Purposes: Ideal for learning and understanding basic cryptographic principles.
+
 Historical Analysis: Provides context for historical cryptographic practices and their evolution over time.
